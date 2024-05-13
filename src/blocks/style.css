@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 80px;
+  color: rebeccapurple;
+}
+
+
+div {
+  padding: 40px;
+  border: 1px solid red;
+}
+
+.dod {
+  padding: 40px;
+  border: 1px solid red;
+}
